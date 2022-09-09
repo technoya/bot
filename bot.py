@@ -11,13 +11,12 @@ updater = Updater("5721627024:AAHtBmuJMMtKtM-JTo3VecF9jYvS1_S0_N8",
 
 def start(update: Update, context: CallbackContext):
 	update.message.reply_text(
-		"Hello sir, Welcome to the Bot.Please write\
-		/help to see the commands available.")
+		"Sorry server under maintence !.😊😊")
 
 
 def unknown(update: Update, context: CallbackContext):
 	update.message.reply_text(
-		"Sorry '%s' is not a valid command" % update.message.text)
+		"Sorry server under maintence" % update.message.text)
 
 
 def unknown_text(update: Update, context: CallbackContext):
