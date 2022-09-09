@@ -1,2 +1,2 @@
-BOTNAME = "Coolgroupmanagerbot"
-TOKEN = "5701574970:AAGTrwrSIIDEjHJLj2xAMrooW8f5TcTixos"
+BOTNAME = "Techyanalyticsbot"
+TOKEN = "5721627024:AAHZmphIUgxYBjwNItz8mFePG4p6TF0sAPA"
