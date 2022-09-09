@@ -5,7 +5,7 @@ from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 
-updater = Updater("your_own_API_Token got from BotFather",
+updater = Updater("5721627024:AAHtBmuJMMtKtM-JTo3VecF9jYvS1_S0_N8",
 				use_context=True)
 
 
