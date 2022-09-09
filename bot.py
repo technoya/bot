@@ -15,7 +15,7 @@ from telegram import InlineKeyboardButton as IKB, InlineKeyboardMarkup, ForceRep
 
 
 load_dotenv()
-BOT_TOKEN = os.getenv('BOT_TOKEN')
+BOT_TOKEN = os.getenv('5721627024:AAHtBmuJMMtKtM-JTo3VecF9jYvS1_S0_N8')
 
 
 def start(update: Update, context: CallbackContext):
