@@ -1,4 +1,4 @@
 python-telegram-bot<13
 pickledb<1
-Requests 2.7.0
-time 0.3.0
+Requests<1
+time<1
