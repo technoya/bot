@@ -30,6 +30,7 @@ help_text = (
     " messages. [HTML formatting]"
     "(https://core.telegram.org/bots/api#formatting-options) "
     "is also supported.\n"
+    "DEVELOPED BY TECHYANAYLYTICS"
 )
 
 """
